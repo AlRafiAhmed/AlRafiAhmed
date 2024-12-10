@@ -26,9 +26,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4A4A4A&center=true&vCenter=true&width=600&lines=Front-end+Developer+%F0%9F%92%BB;React+Developer+%E2%9A%9B;UI%2FUX+Designer+%F0%9F%8E%A8;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" class="animate-fade-in"/>
 </div>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="400" alt="coding animation" class="animate-float"/>
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" alt="coding animation 2" class="animate-float"/>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="300" height="200" alt="coding animation" class="animate-float" style="object-fit: cover;"/>
+  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" height="200" alt="coding animation 2" class="animate-float" style="object-fit: cover;"/>
 </div>
 
 ###
