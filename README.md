@@ -104,22 +104,44 @@ I'm always excited to collaborate on innovative projects and create impactful so
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo" class="tech-icon bounce"/>
 </div>
 
-<<<<<<< HEAD
-=======
-
->>>>>>> 3ac47be3261987ba8d9872d7a69995292d2ca915
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlRafiAhmed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph" class="animate-fade-in"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlRafiAhmed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" class="animate-fade-in"/>
+<div align="center" style="animation: float 3s ease-in-out infinite;">
+  <div style="border: 3px solid #ff6b81; border-radius: 15px; padding: 20px; background: rgba(0,0,0,0.7); box-shadow: 0 0 20px #ff6b81; animation: glow 2s ease-in-out infinite;">
+    <img src="https://github-readme-stats.vercel.app/api?username=AlRafiAhmed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph" style="animation: scale 2s ease-in-out infinite;"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlRafiAhmed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" style="animation: scale 2s ease-in-out infinite;"/>
+  </div>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AlRafiAhmed/count.svg?" class="animate-fade-in"/>
+<div align="center" style="animation: bounce 1s ease-in-out infinite;">
+  <div style="background: linear-gradient(45deg, #ff6b81, #6c5ce7); padding: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(108, 92, 231, 0.7);">
+    <img src="https://profile-counter.glitch.me/AlRafiAhmed/count.svg?" style="filter: drop-shadow(0 0 5px #fff);"/>
+  </div>
 </div>
 
 ###
+
+<style>
+@keyframes float {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes glow {
+  0%, 100% { box-shadow: 0 0 20px #ff6b81; }
+  50% { box-shadow: 0 0 30px #6c5ce7; }
+}
+
+@keyframes scale {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-5px); }
+}
+</style>
