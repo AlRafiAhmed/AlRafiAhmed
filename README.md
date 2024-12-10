@@ -106,42 +106,77 @@ I'm always excited to collaborate on innovative projects and create impactful so
 
 
 ###
-
-<div align="center" style="animation: float 3s ease-in-out infinite;">
-  <div style="border: 3px solid #ff6b81; border-radius: 15px; padding: 20px; background: rgba(0,0,0,0.7); box-shadow: 0 0 20px #ff6b81; animation: glow 2s ease-in-out infinite;">
-    <img src="https://github-readme-stats.vercel.app/api?username=AlRafiAhmed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph" style="animation: scale 2s ease-in-out infinite;"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlRafiAhmed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" style="animation: scale 2s ease-in-out infinite;"/>
-  </div>
+<div align="center" class="stats-container" style="animation: slideIn 1s ease-out, glow 2s infinite alternate;">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlRafiAhmed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph" style="animation: fadeInScale 1.2s ease-out; transform-origin: center;"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlRafiAhmed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" style="animation: fadeInScale 1.2s ease-out 0.3s; transform-origin: center;"/>
 </div>
 
 ###
 
-<div align="center" style="animation: bounce 1s ease-in-out infinite;">
-  <div style="background: linear-gradient(45deg, #ff6b81, #6c5ce7); padding: 10px; border-radius: 10px; box-shadow: 0 0 15px rgba(108, 92, 231, 0.7);">
-    <img src="https://profile-counter.glitch.me/AlRafiAhmed/count.svg?" style="filter: drop-shadow(0 0 5px #fff);"/>
-  </div>
+<div align="center" class="visitor-counter" style="animation: bounceIn 1s ease-out 0.6s both;">
+  <img src="https://profile-counter.glitch.me/AlRafiAhmed/count.svg?" style="animation: pulse 2s infinite;"/>
 </div>
 
 ###
 
 <style>
-@keyframes float {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
+@keyframes slideIn {
+  from {
+    transform: translateY(-30px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+@keyframes fadeInScale {
+  from {
+    transform: scale(0.9);
+    opacity: 0;
+  }
+  to {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes bounceIn {
+  0% {
+    transform: scale(0.3);
+    opacity: 0;
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  70% {
+    transform: scale(0.9);
+  }
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+}
+
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+  }
+  50% {
+    transform: scale(1.05);
+  }
+  100% {
+    transform: scale(1);
+  }
 }
 
 @keyframes glow {
-  0%, 100% { box-shadow: 0 0 20px #ff6b81; }
-  50% { box-shadow: 0 0 30px #6c5ce7; }
-}
-
-@keyframes scale {
-  0%, 100% { transform: scale(1); }
-  50% { transform: scale(1.05); }
-}
-
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-5px); }
+  from {
+    box-shadow: 0 0 5px rgba(255,255,255,0.2);
+  }
+  to {
+    box-shadow: 0 0 20px rgba(255,255,255,0.4);
+  }
 }
 </style>
