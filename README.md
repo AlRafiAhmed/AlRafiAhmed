@@ -117,11 +117,11 @@ I'm always excited to collaborate on innovative projects and create impactful so
 
 ###
 
-<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;">
-  <h2 style="color: #4A4A4A;">🌟 Let's Connect!</h2>
-  <p style="color: #4A4A4A;">"The only way to do great work is to love what you do." - Steve Jobs</p>
-  <p style="color: #4A4A4A;">Feel free to reach out for collaboration or just to say hi!</p>
-  <a href="mailto:your-email@example.com" style="text-decoration: none; background-color: #4A90E2; color: white; padding: 10px 20px; border-radius: 5px;">📧 Email Me</a>
+<div align="center" style="background-color: #f0f0f0; padding: 20px; border-radius: 10px;" class="animate-fade-in">
+  <h2 style="color: #4A4A4A;" class="animate-slide-down">🌟 Let's Connect!</h2>
+  <p style="color: #4A4A4A;" class="animate-fade-in-delay-1">"The only way to do great work is to love what you do." - Steve Jobs</p>
+  <p style="color: #4A4A4A;" class="animate-fade-in-delay-2">Feel free to reach out for collaboration or just to say hi!</p>
+  <a href="mailto:alrafi.ahmed.dev@gmail.com" style="text-decoration: none; background-color: #4A90E2; color: white; padding: 10px 20px; border-radius: 5px;" class="animate-bounce hover-scale">📧 Email Me</a>
 </div>
 
 ###
