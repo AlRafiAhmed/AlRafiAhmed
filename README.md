@@ -106,77 +106,53 @@ I'm always excited to collaborate on innovative projects and create impactful so
 
 
 ###
-<div align="center" class="stats-container" style="animation: slideIn 1s ease-out, glow 2s infinite alternate;">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlRafiAhmed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph" style="animation: fadeInScale 1.2s ease-out; transform-origin: center;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlRafiAhmed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" style="animation: fadeInScale 1.2s ease-out 0.3s; transform-origin: center;"/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlRafiAhmed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlRafiAhmed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"/>
 </div>
 
 ###
 
-<div align="center" class="visitor-counter" style="animation: bounceIn 1s ease-out 0.6s both;">
-  <img src="https://profile-counter.glitch.me/AlRafiAhmed/count.svg?" style="animation: pulse 2s infinite;"/>
+<div align="center">
+  <img src="https://profile-counter.glitch.me/AlRafiAhmed/count.svg?"/>
 </div>
 
 ###
 
 <style>
-@keyframes slideIn {
-  from {
-    transform: translateY(-30px);
-    opacity: 0;
-  }
-  to {
-    transform: translateY(0);
-    opacity: 1;
-  }
+.tech-stack img {
+  transition: transform 0.3s ease;
 }
 
-@keyframes fadeInScale {
-  from {
-    transform: scale(0.9);
-    opacity: 0;
-  }
-  to {
-    transform: scale(1);
-    opacity: 1;
-  }
+.tech-stack img:hover {
+  transform: scale(1.1);
 }
 
-@keyframes bounceIn {
-  0% {
-    transform: scale(0.3);
-    opacity: 0;
-  }
-  50% {
-    transform: scale(1.05);
-  }
-  70% {
-    transform: scale(0.9);
-  }
-  100% {
-    transform: scale(1);
-    opacity: 1;
-  }
+.bounce:hover {
+  animation: bounce 0.5s ease infinite;
+}
+
+.spin:hover {
+  animation: spin 2s linear infinite;
+}
+
+.pulse:hover {
+  animation: pulse 1s ease infinite;
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(-10px); }
+}
+
+@keyframes spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
 }
 
 @keyframes pulse {
-  0% {
-    transform: scale(1);
-  }
-  50% {
-    transform: scale(1.05);
-  }
-  100% {
-    transform: scale(1);
-  }
-}
-
-@keyframes glow {
-  from {
-    box-shadow: 0 0 5px rgba(255,255,255,0.2);
-  }
-  to {
-    box-shadow: 0 0 20px rgba(255,255,255,0.4);
-  }
+  0% { transform: scale(1); }
+  50% { transform: scale(1.1); }
+  100% { transform: scale(1); }
 }
 </style>
