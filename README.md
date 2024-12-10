@@ -104,6 +104,10 @@ I'm always excited to collaborate on innovative projects and create impactful so
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo" class="tech-icon bounce"/>
 </div>
 
+<<<<<<< HEAD
+=======
+
+>>>>>>> 3ac47be3261987ba8d9872d7a69995292d2ca915
 
 ###
 
