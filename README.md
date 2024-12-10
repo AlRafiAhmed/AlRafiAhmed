@@ -99,60 +99,19 @@ I'm always excited to collaborate on innovative projects and create impactful so
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo" class="tech-icon bounce"/>
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo" class="tech-icon bounce"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" height="40" alt="jquery logo" class="tech-icon bounce"/>
 </div>
 
 
 ###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AlRafiAhmed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlRafiAhmed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"/>
+<div align="center" class="animate-fade-in">
+  <img src="https://github-readme-stats.vercel.app/api?username=AlRafiAhmed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph" class="hover-scale"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AlRafiAhmed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" class="hover-scale"/>
 </div>
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/AlRafiAhmed/count.svg?"/>
+<div align="center" class="animate-bounce">
+  <img src="https://profile-counter.glitch.me/AlRafiAhmed/count.svg?" class="pulse"/>
 </div>
 
 ###
-
-<style>
-.tech-stack img {
-  transition: transform 0.3s ease;
-}
-
-.tech-stack img:hover {
-  transform: scale(1.1);
-}
-
-.bounce:hover {
-  animation: bounce 0.5s ease infinite;
-}
-
-.spin:hover {
-  animation: spin 2s linear infinite;
-}
-
-.pulse:hover {
-  animation: pulse 1s ease infinite;
-}
-
-@keyframes bounce {
-  0%, 100% { transform: translateY(0); }
-  50% { transform: translateY(-10px); }
-}
-
-@keyframes spin {
-  from { transform: rotate(0deg); }
-  to { transform: rotate(360deg); }
-}
-
-@keyframes pulse {
-  0% { transform: scale(1); }
-  50% { transform: scale(1.1); }
-  100% { transform: scale(1); }
-}
-</style>
