@@ -1,21 +1,21 @@
-<h1 align="center" class="animate-typing">👋 Hi there! I'm Al Rafi Ahmed</h1>
+<h1 align="center" class="animate-typing">👋 Hi there! I'm Faizul Islam Gazi</h1>
 
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/al-rafi-ahmed1/" target="_blank" class="social-link">
+  <a href="https://www.linkedin.com/in/faizul-islam-gazi/" target="_blank" class="social-link">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" class="hover-scale"/>
   </a>
-  <a href="https://www.instagram.com/md.islam960/" target="_blank" class="social-link">
+  <a href="https://www.instagram.com/faizul_gazi/" target="_blank" class="social-link">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo" class="hover-scale"/>
   </a>
-  <a href="https://www.facebook.com/al.rafi.7906" target="_blank" class="social-link">
+  <a href="https://www.facebook.com/faizul.gazi.1" target="_blank" class="social-link">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo" class="hover-scale"/>
   </a>
-  <a href="https://twitter.com/alrafiahmed" target="_blank" class="social-link">
+  <a href="https://twitter.com/faizul_gazi" target="_blank" class="social-link">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo" class="hover-scale"/>
   </a>
-  <a href="https://dev.to/alrafiahmed" target="_blank" class="social-link">
+  <a href="https://dev.to/faizulgazi" target="_blank" class="social-link">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/devto/default.svg" width="52" height="40" alt="dev.to logo" class="hover-scale"/>
   </a>
 </div>
@@ -23,25 +23,25 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4A4A4A&center=true&vCenter=true&width=600&lines=Front-end+Developer+%F0%9F%92%BB;React+Developer+%E2%9A%9B;UI%2FUX+Designer+%F0%9F%8E%A8;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" class="animate-fade-in"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4A4A4A&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%92%BB;MERN+Stack+Developer+%E2%9A%9B;UI%2FUX+Designer+%F0%9F%8E%A8;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" class="animate-fade-in"/>
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="350" alt="coding animation" class="animate-float"/>
-  <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="350" alt="coding animation 2" class="animate-float"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding animation" class="animate-float"/>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400" alt="coding animation 2" class="animate-float"/>
 </div>
 
 ###
 
-<p align="left" class="animate-slide-in" style="color: #4A4A4A;">🚀 As a passionate front-end developer with 2+ years of hands-on experience, I specialize in crafting exceptional web experiences using:
+<p align="left" class="animate-slide-in" style="color: #4A4A4A;">🚀 As a passionate full stack developer with 2+ years of hands-on experience, I specialize in crafting exceptional web experiences using:
 
-• React.js & Next.js for building scalable applications
+• MERN Stack (MongoDB, Express.js, React.js, Node.js) for full-stack applications
 • Modern CSS frameworks (Bootstrap, Tailwind CSS & Material UI) 
 • Pixel-perfect conversions from Figma/PSD/XD designs
 • Clean, efficient and responsive web development
 • Redux & Context API for state management
 
-🎓 Currently pursuing B.Sc in Computer Science & Engineering at IUBAT, focusing on:
+🎓 Currently pursuing B.Sc in Computer Science & Engineering at DIU, focusing on:
 • Advanced algorithms & Data Structures
 • Software development principles & Design Patterns
 • AI/ML technologies & Cloud Computing
@@ -56,7 +56,7 @@
 ###
 
 <p align="left" class="animate-fade-in" style="color: #4A4A4A;">
-✅ Expert Front-End Development with React.js ecosystem<br>
+✅ Expert Full-Stack Development with MERN Stack ecosystem<br>
 ✅ Responsive & Mobile-First Design Implementation<br>
 ✅ RESTful API Integration & State Management<br>
 ✅ Strong Problem-Solving & Analytical Skills<br>
