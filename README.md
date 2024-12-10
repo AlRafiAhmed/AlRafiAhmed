@@ -23,7 +23,9 @@
 ###
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4A4A4A&center=true&vCenter=true&width=600&lines=Front-end+Developer+%F0%9F%92%BB;React+Developer+%E2%9A%9B;UI%2FUX+Designer+%F0%9F%8E%A8;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" class="animate-fade-in"/>
+  <a href="https://personal-website-fawn-gamma.vercel.app/" target="_blank">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=4A4A4A&center=true&vCenter=true&width=600&lines=Front-end+Developer+%F0%9F%92%BB;React+Developer+%E2%9A%9B;UI%2FUX+Designer+%F0%9F%8E%A8;Problem+Solver+%F0%9F%A7%A9;Open+Source+Contributor+%F0%9F%8C%9F" alt="Typing SVG" class="animate-fade-in animate-scroll"/>
+  </a>
 </div>
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px;">
