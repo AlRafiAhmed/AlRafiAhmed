@@ -145,6 +145,18 @@ I'm always excited to collaborate on innovative projects and create impactful so
   transition: transform 0.3s ease;
 }
 
+.tech-icon.bounce {
+  animation: bounce 2s infinite;
+}
+
+.tech-icon.spin {
+  animation: spin 4s linear infinite;
+}
+
+.tech-icon.pulse {
+  animation: pulse 2s infinite;
+}
+
 .tech-icon:hover {
   transform: scale(1.2);
 }
@@ -181,14 +193,14 @@ I'm always excited to collaborate on innovative projects and create impactful so
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=faizul-gazi&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph" class="animate-fade-in"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=faizul-gazi&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" class="animate-fade-in"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=alrafiahmed&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&order=1" height="150" alt="stats graph" class="animate-fade-in"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alrafiahmed&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" class="animate-fade-in"/>
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/faizul-gazi/count.svg?" class="animate-fade-in"/>
+  <img src="https://profile-counter.glitch.me/alrafiahmed/count.svg?" class="animate-fade-in"/>
 </div>
 
 ###
